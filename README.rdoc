@@ -1,0 +1,15 @@
+== README
+
+It is a normal Task management system to list, edit, view and create tasks
+
+
+Usage:
+
+  bundle install
+  rake db:create_task_table
+  rails s
+
+As i didn't use generator run rake db:create_task_table before create record
+
+Note:
+   I didn't write any test cases for this application, if that is needed let me know, so that i will write test cases and provide it to you.
